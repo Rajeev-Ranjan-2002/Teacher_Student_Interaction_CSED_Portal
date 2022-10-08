@@ -5,38 +5,37 @@ Contents
 Preface iv
 Acknowledgements v
 1 Introduction 1
-1.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
-1.2 Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.3 Objective . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.4 Software Development Model Used . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.5 Languages Used . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-1.6 Organization of report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-2 Proposed Work 4
-2.1 Database Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-2.2 Actors Involved . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-2.2.1 Teacher . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-2.2.2 Student . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
-2.3 Features on Teacher Side . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
-2.3.1 Add/Remove Batch in courses . . . . . . . . . . . . . . . . . . . . . . . . . 8
-2.3.2 Upload Notices/ Assignments . . . . . . . . . . . . . . . . . . . . . . . . . . 9
-2.3.3 Details of enrolled batch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
-2.3.4 List of late submissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
-2.3.5 Explore uploaded notices/Assignments . . . . . . . . . . . . . . . . . . . . . 10
-2.3.6 Update Exam marks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-2.4 Features on student side . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-2.4.1 Added/ Removed in a course . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-2.4.2 Explore assigned work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-2.4.3 Submit the solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-2.4.4 Rating of teacher . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+1.1 Overview 
+1.2 Motivation
+1.3 Objective 
+1.4 Software Development Model Used 
+1.5 Languages Used 
+1.6 Organization of report 
+2.1 Database Design 
+2.2 Actors Involved 
+2.2.2 Student 
+2.3 Features on Teacher Side 
+2.3.1 Add/Remove Batch in courses
+2.3.2 Upload Notices/ Assignments
+2.3.3 Details of enrolled batch
+2.3.4 List of late submissions
+2.3.5 Explore uploaded notices/Assignments 
+2.3.6 Update Exam marks 
+2.4 Features on student side 
+2.4.1 Added/ Removed in a course 
+2.4.2 Explore assigned work 
+2.4.3 Submit the solution
+2.4.4 Rating of teacher 
 vi
-2.4.5 Exploring notices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+2.4.5 Exploring notices 
 3 Conclusion and Future Work 15
-3.1 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
-3.2 Future Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+3.1 Conclusion
+3.2 Future Work 
 References 17
 vii
-Chapter 1
-Introduction
+
+## Chapter 1
+ ## Introduction
 If we focus on the current scenario of CSED, teachers and students need a mediator to interact
 with each other to communicate any information regarding any subject. For example, to send
 assignments, study material, notice or any other content related to the subject teacher has to
@@ -102,7 +101,7 @@ Chapter 1 consists the introduction, overview, motivation and objective of the a
 Chapter 2 describes the features and functionalities of the developed system.
 Chapter 3 describes the future work and conclusion of the report.
 3
-Chapter 2
+ ## Chapter 2
 Proposed Work
 The CSED portal provides a plethora of functionalities for all kinds of users using this portal. The
 main focus of the entire project is to remove the gap between teachers and students of Computer
